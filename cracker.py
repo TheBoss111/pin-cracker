@@ -6,7 +6,7 @@ import os
 
 pingEveryone = True
 print('')
-print('Enter your cookie below:')
+print('Enter your cookie below:'555)
 cookie = input()
 os.system("cls")
 print('')
